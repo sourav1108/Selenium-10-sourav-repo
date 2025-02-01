@@ -14,10 +14,7 @@ public class ArrayDuplicate {
 			for (int j = i + 1; j <= n.length - 1; j++) {
 				if (n[i] == n[j]) {
 					System.out.println("The duplicate elements are : " + n[j]);
-					System.out.println("The duplicate elements are : " + n[j]);
-					System.out.println("The duplicate elements are : " + n[j]);
-
-
+			
 				}
 			}
 		}
